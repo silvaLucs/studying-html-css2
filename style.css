@@ -59,7 +59,7 @@ body a + a  {
 
 footer img{
 
-    position: absolute;
+    position: fixed;
     width: 100vw;
     bottom: 0;
     right: 0;
