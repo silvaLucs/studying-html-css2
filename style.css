@@ -57,11 +57,17 @@ body a + a  {
     margin-left: 40px;
 }
 
-footer img{
+footer{
+    position: relative; }
 
+
+footer img{
     position: fixed;
+
+    height: 70px;
     width: 100vw;
+
     bottom: 0;
     right: 0;
-    
+
 }
